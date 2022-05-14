@@ -12,7 +12,7 @@ while (input != 0) {
   if (input==0){
     contador -= 1;
   };
-  
+  /* */
 }
 console.log(
   contadorPositivos +
